@@ -16,7 +16,7 @@ behind, what needs a decision.
 Built with n8n, Groq AI, and Airtable. Working end to end right now.
 
 ## Demo
-[Watch a walkthrough](paste-your-loom-link-here)
+[Watch a walkthrough](https://www.loom.com/share/a5b56bf28d3e487b8510a96837b56930)
 
 ## Stack
 - n8n (workflow orchestration)
